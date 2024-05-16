@@ -9,14 +9,6 @@
 
 - 🌱 I’m currently learning **Data Virtualization on the Denodo software**
 
-- 👯 I’m looking to collaborate on **(Unable to for now)**
-
-- 🤝 I’m looking for help with **(Unable to for now)**
-
-- 💬 Ask me about **(Unable to for now)**
-
-- 📫 How to reach me **(Unable to for now)**
-
 - 📄 Know about my experiences [file:///C:/Users/Kai%20Wen/Downloads/Lam%20Kai%20Wen_Resume.pdf](file:///C:/Users/Kai%20Wen/Downloads/Lam%20Kai%20Wen_Resume.pdf)
 
 - ⚡ Fun fact **This profile was created with the help of a template. It can be found here: https://rahuldkjain.github.io/gh-profile-readme-generator/**
