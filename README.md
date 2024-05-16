@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/Kai%20Wen/Downloads/Lam%20Kai%20Wen_Resume.pdf](file:///C:/Users/Kai%20Wen/Downloads/Lam%20Kai%20Wen_Resume.pdf)
 
-- ⚡ Fun fact **This profile was created with the help of a template. It can be found here: https://rahuldkjain.github.io/gh-profile-readme-generator/**
+- ⚡ Fun fact: **This profile was created with the help of a template. It can be found here: https://rahuldkjain.github.io/gh-profile-readme-generator/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
