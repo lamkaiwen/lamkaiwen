@@ -13,10 +13,6 @@
 
 - ⚡ Fun fact: **This profile was created with the help of a template. It can be found here: https://rahuldkjain.github.io/gh-profile-readme-generator/**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/kai-wen-lam-948876291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/kai-wen-lam-948876291" height="30" width="40" /></a>
@@ -37,7 +33,7 @@ lamkaiwen/lamkaiwen is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Blog posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
