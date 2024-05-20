@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamkaiwen&show_icons=true&locale=en" alt="lamkaiwen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamkaiwen&" alt="lamkaiwen" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lamkaiwen)](https://git.io/streak-stats)
 
 <!---
 lamkaiwen/lamkaiwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
