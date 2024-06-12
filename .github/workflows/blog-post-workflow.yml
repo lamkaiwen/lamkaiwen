@@ -17,4 +17,4 @@ jobs:
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://medium.com/feed/0cyclxne'
+          feed_list: 'https://medium.com/feed/@0cyclxne/lists'
