@@ -1,20 +1,20 @@
-name: Latest blog post workflow
+# name: Latest blog post workflow
 
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+# on:
+#   schedule:
+#     # Runs every hour
+#     - cron: '0 * * * *'
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
+# jobs:
+#   update-readme-with-blog:
+#     name: Update this repo's README with latest blog posts
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v2
 
-      - name: Update README with latest blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: 'https://medium.com/feed/@0cyclxne/lists'
+#       - name: Update README with latest blog posts
+#         uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           feed_list: 'https://medium.com/feed/@0cyclxne/lists'
